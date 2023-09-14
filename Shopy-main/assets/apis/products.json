@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "title": "افاتارات ارت ديجتال",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "تصميم افاتار على مزاجك بسعر يبداء من 100الف الي 1مليون حسب التصميم للبنات",
+        "price": 100000,
+        "image": "./assets/images/product5.jpg",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 2,
+        "title": "زيادة متابعين تيكتوك انستقرام",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 200000,
+        "image": "./assets/images/product12.jpg",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 3,
+        "title": "تحويل الصورة الي رسمة",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 500000,
+        "image": "./assets/images/product10.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 4,
+        "title": "تصميم واجهات الموبايل",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 3000000,
+        "image": "./assets/images/homek2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 5,
+        "title": "تصميم افاتار على مزاجك للرجال",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 700000,
+        "image": "./assets/images/humm.jpg",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 6,
+        "title": "بروجكت بوت شوب مطور",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 80000,
+        "image": "./assets/images/bot.jpg",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 7,
+        "title": "زيادة متابعين يوتيوب",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 300000,
+        "image": "./assets/images/ppoo.jpg",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 8,
+        "title": "تحويل الصور الي كرتون",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 100000,
+        "image": "./assets/images/product4.jpg",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 9,
+        "title": "تصميم بوت بروجكت ضريبة",
+        "trendTitle": "best trending hoodie",
+        "description": "This product is one of our best selling and popular prodcut; Because of its elegance and the beauty of its design, we advise you to buy it quickly before it runs out of stock.",
+        "price": 60000,
+        "image": "./assets/images/bot.jpg",
+        "isNew": false,
+        "isTrending": true,
+        "category": "men"
+    },
+    {
+        "id": 10,
+        "title": "يوزرات تيكتوك رباعية",
+        "trendTitle": "most popular outfit",
+        "description": "We present to you our most popular product, as it has received many requests recently; Because of its quality and workmanship, we advise you to quickly purchase the product before the stock runs out.",
+        "price": 839.99,
+        "image": "./assets/images/Screenshot_٢٠٢٣٠٩١٥-٠٠٣٦٤١_Chrome.jpg",
+        "isNew": false,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 11,
+        "title": "اصمم لك اي فيديو",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 100000,
+        "image": "./assets/images/Screenshot_٢٠٢٣٠٩١٥-٠٠٤٠١٥_Chrome.jpg",
+        "isNew": false,
+        "isTrending": false,
+        "category": "men"
+    },
+    {
+        "id": 12,
+        "title": "صفحات تيكتوك من 10الف متابع ل 30الف",
+        "trendTitle": "unique awesome jacket",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 5000000,
+        "image": "./assets/images/Screenshot_٢٠٢٣٠٩١٥-٠٠٤١٥٤_Chrome.jpg",
+        "image1": "./assets/images/product12-2.png",
+        "isNew": true,
+        "isTrending": true,
+        "category": "women"
+    },
+    {
+        "id": 13,
+        "title": "Uptime 24 ارفع بوتك 14 ساعة بدون انقطاع",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 10000,
+        "image": "./assets/images/Screenshot_٢٠٢٣٠٩١٥-٠٠٣٩٠٢_Chrome.jpg",
+        "image1": "./assets/images/product13-2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "women"
+    },
+    {
+        "id": 14,
+        "title": "تصميم اي صورة او شعار",
+        "trendTitle": "Lorem ipsum dolor",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate ratione sint, minima itaque maxime facilis necessitatibus aliquam veritatis, possimus sapiente esse aspernatur atque harum laboriosam consequatur quam pariatur, doloremque expedita.",
+        "price": 100000,
+        "image": "./assets/images/product8.jpg",
+        "image1": "./assets/images/product14-2.png",
+        "isNew": true,
+        "isTrending": false,
+        "category": "men"
+    }
+]
